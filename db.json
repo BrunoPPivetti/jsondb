@@ -18,7 +18,7 @@
             "phone": "1-770-736-8031 x56442",
             "website": "hildegard.org",
             "company": {
-                "name": "Romaguera-Crona",
+                "name": "Romaguera",
                 "catchPhrase": "Multi-layered client-server neural-net",
                 "bs": "harness real-time e-markets"
             }
@@ -64,7 +64,7 @@
             "phone": "1-463-123-4447",
             "website": "ramiro.info",
             "company": {
-                "name": "Romaguera-Jacobson",
+                "name": "Romaguera",
                 "catchPhrase": "Face to face bifurcated interface",
                 "bs": "e-enable strategic applications"
             }
@@ -89,7 +89,7 @@
             "company": {
                 "name": "Robel-Corkery",
                 "catchPhrase": "Multi-tiered zero tolerance productivity",
-                "bs": "transition cutting-edge web services"
+                "bs": "transition web services"
             }
         }
     ],
@@ -140,113 +140,113 @@
             "albumId": 1,
             "id": 1,
             "title": "Foto 1",
-            "url": "https://picsum.photos/200",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1qodSAirh0bju50Smc0cGMzCX1_bjGI28"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-framesbyambro-15274837_wnt1hp.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828892/pexels-framesbyambro-15274837_tkjnsa.jpg"
         },
         {
             "albumId": 1,
             "id": 2,
             "title": "Foto 2",
-            "url": "https://drive.google.com/uc?export=download&id=1wayw9kXXE2-2HwWdZuzd3kSQKLnQdoG6",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1EUYFVixifYO_TLSxMdRbcZIZZPHjEyzE"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-swiss-fotos-1759983-7372548_gfqxkv.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828906/pexels-swiss-fotos-1759983-7372548_ad6sh3.jpg"
         },
         {
             "albumId": 2,
             "id": 3,
             "title": "Foto 3",
-            "url": "https://drive.google.com/uc?export=download&id=1vkx9tU7eK2b9mCqVIRdOXJb-PqMjUW6M",
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-alexgtacar-745150-1592384_lxhusr.jpg",
             "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1HB3Ux4zq5J9jQoAYy-xmR0dFt1i2V7QW"
         },
         {
             "albumId": 2,
             "id": 4,
             "title": "Foto 4",
-            "url": "https://drive.google.com/uc?export=download&id=1kSFcTulNFXrZneN_5fpY0t3pfw41v_MB",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1Elez9ThVE7KpswLSQTVKquwlAGDL-VvI"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-d30visuals-11607475_zbsznl.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828891/pexels-alexgtacar-745150-1592384_yeo5yt.jpg"
         },
         {
             "albumId": 3,
             "id": 5,
             "title": "Foto 5",
-            "url": "https://drive.google.com/uc?export=download&id=1gjziEwucNlrr62eDVZs97EfEZSaoh-Ci",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1yvKb2u4qvcjaAn9q8m6I5kIsUYNUuRmY"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-shots-by-sandhu-61082068-19597726_njbfcf.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828906/pexels-shots-by-sandhu-61082068-19597726_vcmia1.jpg"
         },
         {
             "albumId": 3,
             "id": 6,
             "title": "Foto 6",
-            "url": "https://drive.google.com/uc?export=download&id=1gLK93jV0MtFjvDiXmGc9IJJdWraT4Jfn",
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828705/pexels-hyundaimotorgroup-25566869_ao2vo2.jpg",
             "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1ZV8BZtl7Iip72aH0BkDSwfnDSkPhh6sb"
         },
         {
             "albumId": 4,
             "id": 7,
             "title": "Foto 7",
-            "url": "https://drive.google.com/uc?export=download&id=1a7OxhgPc6GyzRsA3kPQioVwDaYwH_dIq",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1Xhc7kg19pwaW9qpa6dB2JkkIKmct6r-7"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828704/pexels-haberdoedas-32494403_1_q8d0zu.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828893/pexels-haberdoedas-32494403_1_ovh7rw.jpg"
         },
         {
             "albumId": 4,
             "id": 8,
             "title": "Foto 8",
-            "url": "https://drive.google.com/uc?export=download&id=1KLe-2kXmiLX3aAlaMm1lGj9dMEwxCb72",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1enVnxWiJ6kc8QxtV6QUs9EcQdwIPTwVW"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828705/pexels-brandon-martinez-991996542-20220873_mactsh.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828892/pexels-brandon-martinez-991996542-20220873_qfmcxv.jpg"
         },
         {
             "albumId": 5,
             "id": 9,
             "title": "Foto 9",
-            "url": "https://drive.google.com/uc?export=download&id=1IZNteiRsF6Mm-ot-Ff5tYzmg6UmnPKdE",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1Vtx5PejsdYylr9LY1b1IPToP8MnC7hav"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828705/pexels-introspectivedsgn-5308151_ql393v.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828901/pexels-introspectivedsgn-5308151_ldel0f.jpg"
         },
         {
             "albumId": 5,
             "id": 10,
             "title": "Foto 10",
-            "url": "https://drive.google.com/uc?export=download&id=1LJwMSgx7ARzOyyhKtQI_fTov2QkFyFuV",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1LJwMSgx7ARzOyyhKtQI_fTov2QkFyFuV"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828705/pexels-furkan-aktas-1230317673-24800195_ipvt8g.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828893/pexels-furkan-aktas-1230317673-24800195_usnafy.jpg"
         },
         {
             "albumId": 6,
             "id": 11,
             "title": "Foto 11",
-            "url": "https://drive.google.com/uc?export=download&id=1FIBHf1cHE7RRzXI6PC_ZkJhHE6OsoNGf",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1e5EOZ-ntOZSs5XribeHabRbUfgj4mlwZ"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828706/pexels-rileyfranzke-1822838_h8zt4r.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828905/pexels-rileyfranzke-1822838_arhqxh.jpg"
         },
         {
             "albumId": 6,
             "id": 12,
             "title": "Foto 12",
-            "url": "https://drive.google.com/uc?export=download&id=1Ce6_ynWX9-zVlvsO_sxF_wD2HEbb-8CL",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1092QMQapoIUAU7dcCNCj0h3X40_v1veS"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828706/pexels-mohit-hambiria-92377455-12484845_zxppie.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828905/pexels-mohit-hambiria-92377455-12484845_xb59ut.jpg"
         },
         {
             "albumId": 7,
             "id": 13,
             "title": "Foto 13",
-            "url": "https://drive.google.com/uc?export=download&id=12YHijHeQ-u7uPKzXmCSA6B5HJquH_J9l",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1dW1Ntd6GtUYV5Ezwc5djHeWFpmigQiep"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828706/pexels-mohit-hambiria-92377455-17832661_deovck.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828905/pexels-mohit-hambiria-92377455-17832661_fxdiob.jpg"
         },
         {
             "albumId": 7,
             "id": 14,
             "title": "Foto 14",
-            "url": "https://drive.google.com/uc?export=download&id=10Vgmt6rdgrPms0GNYm8DoIHMXOrbKTh7",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1-Htqm0QIEa0nCjQJGrwC33rspK6dZdat"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828707/pexels-robin-pascal-fischer-416967958-15062315_ppgwfz.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828906/pexels-robin-pascal-fischer-416967958-15062315_vwgbaw.jpg"
         },
         {
             "albumId": 8,
             "id": 15,
             "title": "Foto 15",
-            "url": "https://drive.google.com/uc?export=download&id=108HfT3HXEVPq5rx-IZrG-uDonlRIuWfx",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=17IsRjU1wnZiboIB98cAkWvJHueo0IcNg"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828705/pexels-hyundaimotorgroup-29724371_sqe0s2.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828900/pexels-hyundaimotorgroup-29724371_tmevao.jpg"
         },
         {
             "albumId": 8,
             "id": 16,
             "title": "Foto 16",
-            "url": "https://drive.google.com/uc?export=download&id=1rs8COC0d_uU9KWCkiatlpXD-BjPJ9sF0",
-            "thumbnailUrl": "https://drive.google.com/uc?export=download&id=1c-RobZzPbrIfG6G3Q3kzcUdeoAufNyoD"
+            "url": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828706/pexels-kyddvisuals-4147623_hbaf1t.jpg",
+            "thumbnailUrl": "https://res.cloudinary.com/dzuia6e2w/image/upload/v1749828905/pexels-kyddvisuals-4147623_qqm5cp.jpg"
         }
     ]
 }
